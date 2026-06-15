@@ -1,35 +1,46 @@
 <Solution>
   <Folder Name="/Stage1_Basics/">
     <Project Path="Stage1_Basics/01_Introduction/01_Introduction.csproj" />
+    <Project Path="Stage1_Basics/01-5_ValueType_ReferenceType/01-5_ValueType_ReferenceType.csproj" />
     <Project Path="Stage1_Basics/02_Variables_DataTypes_Operators/02_Variables_DataTypes_Operators.csproj" />
+    <Project Path="Stage1_Basics/02-5_String_Performance/02-5_String_Performance.csproj" />
     <Project Path="Stage1_Basics/03_Conditionals_Loops/03_Conditionals_Loops.csproj" />
     <Project Path="Stage1_Basics/04_Arrays_Collections/04_Arrays_Collections.csproj" />
+    <Project Path="Stage1_Basics/04-5_Collections_Advanced/04-5_Collections_Advanced.csproj" />
     <Project Path="Stage1_Basics/05_Methods/05_Methods.csproj" />
+    <Project Path="Stage1_Basics/05-5_Params_Extension_Tuple/05-5_Params_Extension_Tuple.csproj" />
     <Project Path="Stage1_Basics/06_Classes_Objects/06_Classes_Objects.csproj" />
+    <Project Path="Stage1_Basics/06-5_AccessModifier_Static_Singleton/06-5_AccessModifier_Static_Singleton.csproj" />
     <Project Path="Stage1_Basics/07_Inheritance_Polymorphism/07_Inheritance_Polymorphism.csproj" />
+    <Project Path="Stage1_Basics/07-5_Sealed_Casting/07-5_Sealed_Casting.csproj" />
     <Project Path="Stage1_Basics/08_Interface_Abstract/08_Interface_Abstract.csproj" />
+    <Project Path="Stage1_Basics/08-5_MultiInterface_DefaultImpl/08-5_MultiInterface_DefaultImpl.csproj" />
   </Folder>
   <Folder Name="/Stage2_Advanced/">
     <Project Path="Stage2_Advanced/01_Generics/01_Generics.csproj" />
+    <Project Path="Stage2_Advanced/01-5_Generic_Constraints_Advanced/01-5_Generic_Constraints_Advanced.csproj" />
     <Project Path="Stage2_Advanced/02_Delegates_Events/02_Delegates_Events.csproj" />
+    <Project Path="Stage2_Advanced/02-5_Event_Pattern_Observer/02-5_Event_Pattern_Observer.csproj" />
     <Project Path="Stage2_Advanced/03_Lambda_LINQ/03_Lambda_LINQ.csproj" />
+    <Project Path="Stage2_Advanced/03-5_LINQ_Performance_GameLoop/03-5_LINQ_Performance_GameLoop.csproj" />
     <Project Path="Stage2_Advanced/04_Exception_Handling/04_Exception_Handling.csproj" />
+    <Project Path="Stage2_Advanced/04-5_Disposable_Using/04-5_Disposable_Using.csproj" />
     <Project Path="Stage2_Advanced/05_Async_Await/05_Async_Await.csproj" />
+    <Project Path="Stage2_Advanced/05-5_CancellationToken_UniTask/05-5_CancellationToken_UniTask.csproj" />
   </Folder>
   <Folder Name="/Stage3_Network/">
     <Project Path="Stage3_Network/01_Socket_Basics/01_Socket_Basics.csproj" />
+    <Project Path="Stage3_Network/01-5_ByteOrder_Endian/01-5_ByteOrder_Endian.csproj" />
     <Project Path="Stage3_Network/02_TCP_Server_Client/02_TCP_Server_Client.csproj" />
+    <Project Path="Stage3_Network/02-5_Packet_Framing/02-5_Packet_Framing.csproj" />
     <Project Path="Stage3_Network/03_Packet_Serialization/03_Packet_Serialization.csproj" />
+    <Project Path="Stage3_Network/03-5_Protobuf_MessagePack/03-5_Protobuf_MessagePack.csproj" />
     <Project Path="Stage3_Network/04_Async_TCP/04_Async_TCP.csproj" />
+    <Project Path="Stage3_Network/04-5_Heartbeat_Reconnect/04-5_Heartbeat_Reconnect.csproj" />
     <Project Path="Stage3_Network/05_GameServer_Architecture/05_GameServer_Architecture.csproj" />
+    <Project Path="Stage3_Network/05-5_GameLoop_Tick/05-5_GameLoop_Tick.csproj" />
   </Folder>
   <Folder Name="/Stage4_Unity/">
     <Project Path="Stage4_Unity/01_Unity_Setup/01_Unity_Setup.csproj" />
-    <Project Path="Stage4_Unity/02_MonoBehaviour_Lifecycle/02_MonoBehaviour_Lifecycle.csproj" />
-    <Project Path="Stage4_Unity/03_Transform_Physics/03_Transform_Physics.csproj" />
-    <Project Path="Stage4_Unity/04_Input_Handling/04_Input_Handling.csproj" />
-    <Project Path="Stage4_Unity/05_UI_System/05_UI_System.csproj" />
-    <Project Path="Stage4_Unity/06_Scene_GameObject/06_Scene_GameObject.csproj" />
-    <Project Path="Stage4_Unity/07_Unity_TCP/07_Unity_TCP.csproj" />
   </Folder>
 </Solution>
